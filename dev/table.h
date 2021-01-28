@@ -22,7 +22,7 @@ namespace sqlite_orm {
         struct table_base {
 
             /**
-             *  Table name 2.
+             *  Table name 2222.
              */
             std::string name;
 
